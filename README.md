@@ -33,7 +33,7 @@ ___
 
 Visit the website, click [here](https://roman-kata.vercel.app/).
 
-## :rocket: Tecnologias Utilizadas 
+## :rocket: Technologies
 
 The project was developed with the following technologies
 
@@ -41,7 +41,7 @@ The project was developed with the following technologies
 - CSS
 - JavaScript
 
-## :link: Como contribuir 
+## :link: How to Contribute
 
 - Fork this repository
 
@@ -78,6 +78,6 @@ The project was developed with the following technologies
 
 - Pull request your changes
 
-## Licença 
+## License
 
 This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
