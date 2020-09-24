@@ -20,9 +20,16 @@ ___
 
 ___
 
-<img src="https://ik.imagekit.io/vhx2sevqtq/2_KCWjBuSuBM.png" width="800">
-<img src="https://ik.imagekit.io/vhx2sevqtq/1_8GU18xuuj.png" width="800">
-<img src="https://ik.imagekit.io/vhx2sevqtq/3_HvBOEc3-K.png" width="800">
+
+<p align="center">
+    <img src="https://ik.imagekit.io/vhx2sevqtq/2_KCWjBuSuBM.png" width="800">
+</p>
+<p align="center">
+    <img src="https://ik.imagekit.io/vhx2sevqtq/1_8GU18xuuj.png" width="500">
+</p>
+<p align="center">
+    <img src="https://ik.imagekit.io/vhx2sevqtq/3_HvBOEc3-K.png" width="500">
+</p>
 
 ## :information_source: About
 
